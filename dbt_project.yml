@@ -37,6 +37,6 @@ models:
     example:
       +materialized: view
 
-# vars:
-#     twitter_organic_schema: your_schema_name
-#     twitter_organic_database: your_database_name 
+vars:
+    twitter_organic_schema: twitter
+    # twitter_organic_database: your_database_name
