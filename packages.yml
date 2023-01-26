@@ -1,3 +1,5 @@
 packages:
   - package: fivetran/twitter_organic
     version: 0.2.0
+  - package: fivetran/linkedin_pages
+    version: 0.2.0
