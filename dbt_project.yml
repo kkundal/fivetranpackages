@@ -39,4 +39,5 @@ models:
 
 vars:
     twitter_organic_schema: twitter
+    netsuite_data_model: netsuite2
 #     twitter_organic_database: your_database_name
